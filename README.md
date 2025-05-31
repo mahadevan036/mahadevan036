@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahadevan036
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Automation 
-- 💞️ I’m looking to collaborate on Preospero IQ
+- 💞️ I’m looking to collaborate on Prospero IQ
 - 📫 How to reach me mahadevan036@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact:
